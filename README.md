@@ -1,2 +1,2 @@
 # testrepo01
-TestRepo01
+testrepo01
